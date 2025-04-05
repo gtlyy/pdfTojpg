@@ -1,5 +1,7 @@
 # pdfTojpg
 Convert pdf to jpgs.
 
-# Screenshot
 ![](./Screenshot.png)
+
+## Licence
+GNU GENERAL PUBLIC LICENSE Version 3
